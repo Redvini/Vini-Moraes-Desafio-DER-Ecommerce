@@ -32,6 +32,7 @@ Um cliente pode comprar vários pedidos.
 Clientes N:1 Devoluções
 Cada pedido tem um período de carência para devolução do produto.
 
-DIAGRAMA DE ENTIDADE RELACIONAMENTO
+
+VINI MORAES
 
 
