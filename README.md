@@ -33,6 +33,10 @@ Clientes N:1 Devoluções
 Cada pedido tem um período de carência para devolução do produto.
 
 
+Acesse aqui o DER:
+https://github.com/Redvini/Vini-Moraes-Desafio-DER-Ecommerce/commit/b7052e69f4381e31c73f8cddaa26684ec85d66ac
+
+
 VINI MORAES
 
 
